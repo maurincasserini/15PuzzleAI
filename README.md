@@ -31,7 +31,8 @@ The agent observes the 16-tile board state encoded as a one-hot vector, along wi
 ├── 15PuzzleRLManhattanDistance.py        # Environment logic, network architecture, REINFORCE training loop
 ├── 15PuzzleRLManhattanDistanceTest.py         # Evaluation script to run the trained policy
 ├── 15Puzzle.pth    # Saved model weights
-└── 15Puzzle_demo.mp4        # Video recording of the trained agent
+├── 15Puzzle_demo.mp4        # Video recording of the trained agent
+└── README.md
 ```
 
 
