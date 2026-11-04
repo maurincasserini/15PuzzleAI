@@ -2,7 +2,7 @@
 
 A policy-gradient agent that learns to solve the 15-puzzle from scratch using the REINFORCE algorithm in PyTorch without external RL frameworks.
 
-[Watch the trained agent (mp4)](demo.mp4)
+[Watch the trained agent (mp4)](15Puzzle_demo.mp4)
 
 ## Overview
 
